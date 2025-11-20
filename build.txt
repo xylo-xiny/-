@@ -1,0 +1,1 @@
+pyinstaller --onefile --windowed --hidden-import tkinter --name "石头剪刀布游戏" new_game.py
