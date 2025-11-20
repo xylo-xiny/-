@@ -10,4 +10,4 @@
 - GitHub: [https://github.com/xylo-xiny](https://github.com/xylo-xiny)
 
 ## 版权声明
-版权所有 (c) 2023 你的名字. 保留所有权利.
+版权所有 (c) 2023 Mr.Lv Jing. 保留所有权利.
